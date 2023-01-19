@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, Yo soy Diego</h1>
-<h3 align="center">Full Stack Developer en proceso...</h3>
+<h1 align="center">Hola! 👋🏻 soy Diego.</h1>
+<h3 align="center">Desarrollador web fullstack - Administrador de empresas.</h3>
+
+<h3 align="center">Decidí reinventarme profesionalmente e inicié la formación en el bootcamp de Henry, en un área que me ha apasionado, la programación y el desarrollo web. Como parte de mi formación en desarrollo web fullstack he adquirido competencias en: HTML, CSS, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum, Stripe entre otras.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dirguz&label=Visitantes&color=2c9ce2&style=plastic" alt="dirguz" /> </p>
 
